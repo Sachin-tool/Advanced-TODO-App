@@ -415,10 +415,3 @@ For questions, bug reports, or feature requests, please:
 ## 🎉 Credits
 
 Built with ❤️ using vanilla JavaScript, HTML5, and CSS3.
-
----
-
-**Made with ✨ to help you stay productive!**
-
-Last Updated: January 19, 2024
-Version: 1.0.0
